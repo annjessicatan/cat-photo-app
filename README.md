@@ -83,7 +83,7 @@ Simply open `index.html` in any web browser - no build process required!
 **Ann Jessica Tan**
 - GitHub: [@annjessicatan](https://github.com/annjessicatan)
 - Portfolio: *Coming Soon*
-- LinkedIn: [@annjessicatan](www.linkedin.com/in/annjessicatan)
+- LinkedIn: [https://www.linkedin.com/in/annjessicatan](https://www.linkedin.com/in/annjessicatan)
 
 ---
 
