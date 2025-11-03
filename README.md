@@ -41,7 +41,7 @@ cat-photo-app/ <br>
 ├── index.html # Main HTML file <br>
 ├── README.md # Project documentation <br>
 └── assets/ # For fture images and styles <br>
-├── images/ <br> # Future imaage storage
+├── images/ # Future imaage storage <br>
 
 
 
